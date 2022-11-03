@@ -70,7 +70,7 @@ Si tu veux me contacter :
 <img style="width:32%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg">
 <img style="width:32%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
 </div>
-<div padding-top="50px" style="display:flex; justify-content:center; text-align:center;">
+<div padding-top="100px" style="display:flex; justify-content:center; text-align:center;">
 <img style="width:32%" src="https://www.vectorlogo.zone/logos/symfony/symfony-ar21.svg">
 <img style="width:32%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">
 <img style="width:32%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png?20210130181641">
@@ -79,8 +79,9 @@ Si tu veux me contacter :
 
 <h2 style="padding-top : 30px; padding-bottom : 30px"> La première compétence que je compte apprendre après ma formation : </h2>
 
-
-<img style="width:32%; padding-bottom : 30px" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
+<p align="center">
+<img align="center" style="width:32%; padding-bottom : 30px" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
+</p>
 
 
 <hr>
