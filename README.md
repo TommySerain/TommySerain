@@ -1,24 +1,20 @@
-<center>
 
-# Hello there !
+<h1 style="text-align:center"> Hello there !</h1>
 
-</center>
-<center>
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" width="40"> Non je ne suis pas le général Kenobi <img src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" width="40">
 
-</center>
-<center>
 
-# Je suis Tommy et je suis Développeur Web
-</center>
+<h1 style="text-align:center"><img src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" width="40"> Non je ne suis pas le général Kenobi <img src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" width="40"></h1>
+
+
+<h1 style="text-align:center"> Je suis Tommy et je suis Développeur Web </h1>
+
 
 <br>
 
-## Mes compétences actuelles :
+<h2> Mes compétences actuelles : </h2>
 
-<center>
-<img src=https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg width="80" style="padding : 30px"> <img src=https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg width="80" style="padding : 30px"> <img src=https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg width="80" style="padding : 30px">
+<img src=https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg width="80" style="padding : 30px"><img src=https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg width="80" style="padding : 30px"><img src=https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg width="80" style="padding : 30px">
 </center>
 
 
