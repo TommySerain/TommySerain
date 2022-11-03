@@ -9,7 +9,7 @@
 
 <h1 align="center"> Je suis Tommy et je suis Développeur Web </h1>
 <br>
-<div style="width:80%; border-radius:10px;background-color:antiquewhite">
+<div style="width:80%; border-radius:10px;background-color:#faebd7">
 <h2 style="padding-top : 30px; padding-bottom : 30px; font-weight:bold"> infos </h2>
 
 <h3 style="padding-left:50px; padding-bottom:30px;">Formation :</h3>
@@ -18,7 +18,11 @@
 Actuellement je suis en formation Developpeur Web, un titre RNCP de niveau 5
 
 Voici le lien du projet que nous avons fait à 16 en 9 jours.
+
+
 https://tommyserain.github.io/recrute1developpeur/
+
+
 
 Idéalement, je veux intégrer une équipe soudée dans une entreprise à taille humaine spécialisée dans l'évènementiel, le sport ou la culture.
 </div>
