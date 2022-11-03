@@ -8,14 +8,19 @@
 
 
 <h1 align="center"> Je suis Tommy et je suis Développeur Web </h1>
+<br>
+<h2 style="padding-top : 30px; padding-bottom : 30px"> infos </h2>
 
+<img style="text-align:center" src="https://emojis.slackmojis.com/emojis/images/1643514977/10028/head_desk_smash.gif?1643514977">
 
+Actuellement je suis en formation Developpeur Web, un titre RNCP de niveau 5
 <br>
 
 <h2 style="padding-top : 30px; padding-bottom : 30px"> Mes compétences actuelles : </h2>
 <div style="display:flex; justify-content:center; text-align:center;">
-<img src=https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg width="30%" style="padding : 30px"><img src=https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg width="30%" style="padding : 30px"><img src=https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg width="30%" style="padding : 30px">
+<img src=https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg width="33%" style="padding : 30px"><img src=https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg width="33%" style="padding : 30px"><img src=https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg width="33%" style="padding : 30px">
 </div>
+
 
 
 <!--
