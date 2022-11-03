@@ -13,7 +13,7 @@
 <br>
 
 <h2 style="padding-top : 30px; padding-bottom : 30px"> Mes compétences actuelles : </h2>
-<div style="display:flex; justify-content : center">
+<div style="display:flex; justify-content:center; text-align:center;">
 <img src=https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg width="30%" style="padding : 30px"><img src=https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg width="30%" style="padding : 30px"><img src=https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg width="30%" style="padding : 30px">
 </div>
 
