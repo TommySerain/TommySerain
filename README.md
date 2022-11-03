@@ -18,9 +18,7 @@
 ## Mes compétences actuelles :
 
 <center>
-<img src=https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg width="80" style="padding : 30px">
-<img src=https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg width="80" style="padding : 30px">
-<img src=https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg width="80" style="padding : 30px">
+<img src=https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg width="80" style="padding : 30px"> <img src=https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg width="80" style="padding : 30px"> <img src=https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg width="80" style="padding : 30px">
 </center>
 
 
