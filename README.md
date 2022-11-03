@@ -9,12 +9,26 @@
 
 <h1 align="center"> Je suis Tommy et je suis Développeur Web </h1>
 <br>
-<h2 style="padding-top : 30px; padding-bottom : 30px"> infos </h2>
+<div style="width:80%; border-radius:10px;background-color:antiquewhite">
+<h2 style="padding-top : 30px; padding-bottom : 30px; font-weight:bold"> infos </h2>
 
+<h3 style="padding-left:50px; padding-bottom:30px;">Formation :</h3>
 <img style="text-align:center" src="https://emojis.slackmojis.com/emojis/images/1643514977/10028/head_desk_smash.gif?1643514977">
 
 Actuellement je suis en formation Developpeur Web, un titre RNCP de niveau 5
-<br>
+
+Voici le lien du projet que nous avons fait à 16 en 9 jours.
+https://tommyserain.github.io/recrute1developpeur/
+
+Idéalement, je veux intégrer une équipe soudée dans une entreprise à taille humaine spécialisée dans l'évènementiel, le sport ou la culture.
+</div>
+
+<div style="width:80%; border-radius:10px;background-color:antiquewhite">
+<h2 style="padding-top : 30px; padding-bottom : 30px"> Recherche </h2>
+
+Je suis à la recherche d'un stage du 17/07/23 au 13/09/23.
+Pendant cette période, j'apporterai toutes mes compétences pour aider l'entreprise dans ses projets.
+</div>
 
 <h2 style="padding-top : 30px; padding-bottom : 30px"> Mes compétences actuelles : </h2>
 <div style="display:flex; justify-content:center; text-align:center;">
