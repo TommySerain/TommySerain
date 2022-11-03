@@ -1,4 +1,4 @@
-# Hello there ! <img src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" width="40" style =/> Non je ne suis pas le général Kenobi <img src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" width="40"/>
+# Hello there ! ![gif qui saute](https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259 "gif qui saute") Non je ne suis pas le général Kenobi ![gif qui saute](https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259 "gif qui saute")
 # Je suis Tommy et je suis Développeur Web
 
 
@@ -8,7 +8,7 @@
 **TommySerain/TommySerain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<img src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" width="40"/>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
