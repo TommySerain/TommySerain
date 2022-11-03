@@ -9,7 +9,7 @@
 
 <h1 align="center"> Je suis Tommy et je suis Développeur Web </h1>
 <br>
-<div style="width:80%; border-radius:10px;background-color:#faebd7">
+<div style="width:80%; border-radius:10px;background-color:#faebd7; border:1px black solid;">
 <h2 style="padding-top : 30px; padding-bottom : 30px; font-weight:bold"> infos </h2>
 
 <h3 style="padding-left:50px; padding-bottom:30px;">Formation :</h3>
