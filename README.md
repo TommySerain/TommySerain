@@ -1,7 +1,7 @@
 # Hello there ! 😎 Non je ne suis pas le général Kenobi 😎
 # Je suis Tommy et je suis Développeur Web
 
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+<img src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" width="30"/>
 
 :sunglasses:
 <!--
