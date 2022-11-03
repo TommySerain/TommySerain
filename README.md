@@ -3,13 +3,12 @@
 
 
 
-
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" width="40"> Non je ne suis pas le général Kenobi <img src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" width="40"></h1>
 
 
 <h1 align="center"> Je suis Tommy et je suis Développeur Web </h1>
 <br>
-<div style="width:80%; border-radius:10px;background-color:#faebd7; border:1px black solid;">
+
 <h2 style="padding-top : 30px; padding-bottom : 30px; font-weight:bold"> infos </h2>
 
 <h3 style="padding-left:50px; padding-bottom:30px;">Formation :</h3>
@@ -25,14 +24,37 @@ https://tommyserain.github.io/recrute1developpeur/
 
 
 Idéalement, je veux intégrer une équipe soudée dans une entreprise à taille humaine spécialisée dans l'évènementiel, le sport ou la culture.
-</div>
 
-<div style="width:80%; border-radius:10px;background-color:antiquewhite">
-<h2 style="padding-top : 30px; padding-bottom : 30px"> Recherche </h2>
+
+
+<h3 style="padding-top : 30px; padding-bottom : 30px; padding-left:50px"> Recherche :</h3>
 
 Je suis à la recherche d'un stage du 17/07/23 au 13/09/23.
 Pendant cette période, j'apporterai toutes mes compétences pour aider l'entreprise dans ses projets.
-</div>
+
+
+Si tu veux me contacter :
+
+
+<h3 align="center">Me contacter:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/tommy-serain-developpeur-web/"  align="center" target="blank"><img style="padding:20px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tommy" height="30" width="40"/></a>
+<a href="mailto:tommyserain@yahoo.fr"><img style="padding:20px; padding-top:30px" align="center" src="https://cdn.worldvectorlogo.com/logos/mail-ru-logo-2018.svg" alt="Tommy" height="50" width="60"/></a>
+</p>
+
+
+<h3 style="padding-top : 30px; padding-bottom : 30px; padding-left:50px"> Mes valeurs :</h3>
+
+
+- Engagé
+- Fédérateur
+- Jovial
+- Pédagogue
+
+
+*"Le sens de la vie c'est apprendre toujours, apprendre et transmettre parce que transmettre c'est donner, donner c'est aider, aider c'est avancer, avancer c'est grandir."*
+
+
 
 <h2 style="padding-top : 30px; padding-bottom : 30px"> Mes compétences actuelles : </h2>
 <div style="display:flex; justify-content:center; text-align:center;">
@@ -40,17 +62,32 @@ Pendant cette période, j'apporterai toutes mes compétences pour aider l'entrep
 </div>
 
 
+<h2 style="padding-top : 30px; padding-bottom : 30px"> Les compétences que je vais apprendre pendant la formation : </h2>
 
-<!--
-**TommySerain/TommySerain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-<img src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" width="40"/>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+<div style="display:flex; justify-content:center; text-align:center;">
+<img style="width:32%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg">
+<img style="width:32%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg">
+<img style="width:32%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
+</div>
+<div style="display:flex; justify-content:center; text-align:center;">
+<img style="width:32%" src="https://www.vectorlogo.zone/logos/symfony/symfony-ar21.svg">
+<img style="width:32%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">
+<img style="width:32%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png?20210130181641">
+</div>
+
+
+<h2 style="padding-top : 30px; padding-bottom : 30px"> La première compétence que je compte apprendre après ma formation : </h2>
+
+
+<img style="width:32%; padding-bottom : 30px" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
+
+
+<hr>
+
+
+<p style="padding-top:30px" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TommySerain&show_icons=true&locale=en&layout=compact" alt="Tommy"/></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TommySerain&show_icons=true&locale=en" alt="Tommy" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TommySerain" alt="Tommy" /></p>
+
+
