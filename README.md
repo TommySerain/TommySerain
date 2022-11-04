@@ -66,7 +66,7 @@ Si tu veux me contacter :
 
 <h2 style="padding-top : 30px; padding-bottom : 30px"> Les compétences que je vais apprendre pendant la formation : </h2>
 
-
+<p>
 <div style="display:flex; justify-content:center; text-align:center;">
 <img style="width:32%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg">
 <img style="width:32%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg">
