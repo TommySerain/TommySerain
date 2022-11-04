@@ -69,16 +69,16 @@ Si tu veux me contacter :
 
 <p align="center">
 <div style="display:flex; justify-content:center; text-align:center;">
-<img style="width:20%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg">
-<img style="width:20%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg">
-<img style="width:20%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
+<img align="center" style="width:20%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg">
+<img align="center" style="width:20%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg">
+<img align="center" style="width:20%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
 </div>
 </p>
 <p align="center">
 <div padding-top="100px" style="display:flex; justify-content:center; text-align:center;">
-<img style="width:20%" src="https://www.vectorlogo.zone/logos/symfony/symfony-ar21.svg">
-<img style="width:20%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">
-<img style="width:20%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png?20210130181641">
+<img align="center" style="width:20%" src="https://www.vectorlogo.zone/logos/symfony/symfony-ar21.svg">
+<img align="center" style="width:20%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">
+<img align="center" style="width:20%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png?20210130181641">
 </div>
 </p>
 
