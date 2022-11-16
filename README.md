@@ -60,6 +60,7 @@ Si tu veux me contacter :
 <p align="center">
 <div align="center">
 <img align="center" src=https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg width="20%" style="padding : 30px"><img align="center" src=https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg width="20%" style="padding : 30px"><img align="center" src=https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg width="20%" style="padding : 30px">
+  <img align="center" style="width:20%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg">
 </div>
 </p>
 
@@ -69,7 +70,6 @@ Si tu veux me contacter :
 
 <p align="center">
 <div align="center" style="display:flex; justify-content:center; text-align:center;">
-<img align="center" style="width:20%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg">
 <img align="center" style="width:20%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg">
 <img align="center" style="width:20%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
 </div>
