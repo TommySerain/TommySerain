@@ -55,7 +55,6 @@ Si tu veux me contacter :
 *"Le sens de la vie c'est apprendre toujours, apprendre et transmettre parce que transmettre c'est donner, donner c'est aider, aider c'est avancer, avancer c'est grandir."*
 
 
-
 <h2 style="padding-top : 30px; padding-bottom : 30px"> Mes compétences actuelles : </h2>
 <p align="center">
 <div align="center">
