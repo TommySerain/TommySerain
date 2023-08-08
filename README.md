@@ -16,26 +16,6 @@
 
 Actuellement je suis en formation Developpeur Web, un titre RNCP de niveau 5
 
-Voici le lien du projet que nous avons fait à 16 en 9 jours.
-
-
-https://tommyserain.github.io/recrute1developpeur/
-
-
-
-Idéalement, je veux intégrer une équipe soudée dans une entreprise à taille humaine spécialisée dans l'évènementiel, le sport ou la culture.
-
-
-
-<h3 style="padding-top : 30px; padding-bottom : 30px; padding-left:50px"> Recherche :</h3>
-
-Je suis à la recherche d'un stage du 17/07/23 au 13/09/23.
-Pendant cette période, j'apporterai toutes mes compétences pour aider l'entreprise dans ses projets.
-
-
-Si tu veux me contacter :
-
-
 <h3 align="center">Me contacter:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/tommy-serain-developpeur-web/"  align="center" target="blank"><img style="padding:20px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tommy" height="30" width="40"/></a>
@@ -57,28 +37,19 @@ Si tu veux me contacter :
 
 <h2 style="padding-top : 30px; padding-bottom : 30px"> Mes compétences actuelles : </h2>
 <p align="center">
-<div align="center">
-<img align="center" src=https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg width="20%" style="padding : 30px"><img align="center" src=https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg width="20%" style="padding : 30px"><img align="center" src=https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg width="20%" style="padding : 30px">
-  <img align="center" style="width:20%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg">
+  <div align="center">
+    <img align="center" src=https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg width="20%" style="padding : 30px">
+    <img align="center" style="width:20%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">
+    <img align="center" style="width:20%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
+    <img align="center" style="width:20%" src="https://www.vectorlogo.zone/logos/symfony/symfony-ar21.svg">
+  </p>
 </div>
-</p>
-
-
-<h2 style="padding-top : 30px; padding-bottom : 30px"> Les compétences que je vais apprendre pendant la formation : </h2>
-
-
 <p align="center">
-<div align="center" style="display:flex; justify-content:center; text-align:center;">
-<img align="center" style="width:20%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg">
-<img align="center" style="width:20%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
-</div>
-</p>
-<p align="center">
-<div align="center" padding-top="100px" style="display:flex; justify-content:center; text-align:center;">
-<img align="center" style="width:20%" src="https://www.vectorlogo.zone/logos/symfony/symfony-ar21.svg">
-<img align="center" style="width:20%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">
-<img align="center" style="width:20%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png?20210130181641">
-</div>
+  <div align="center" padding-top="100px" style="display:flex; justify-content:center; text-align:center;">
+    <img align="center" style="width:20%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png?20210130181641">
+    <img align="center" style="width:20%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg">
+    <img align="center" style="width:20%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg">
+  </div>
 </p>
 
 <h2 style="padding-top : 30px; padding-bottom : 30px"> La première compétence que je compte apprendre après ma formation : </h2>
