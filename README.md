@@ -13,7 +13,7 @@
 
 <p>J'ai fais une formation Developpeur Web, un titre RNCP de niveau 5</p>
 
-<p>Acutellement je suis un alternance pour une formation Concepteur développeur d'application au centre de calcule du CNRS</p>
+<p>Acutellement je suis une alternance Concepteur développeur d'application au centre de calcule du CNRS</p>
 
 <div align="center">
   <img align="center" style="width:10%" src="https://www.capingelec.com/wp-content/uploads/2020/06/ine-180x180.png">
